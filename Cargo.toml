@@ -1,0 +1,12 @@
+[package]
+name = "jonson"
+version = "0.1.0"
+authors = ["iriri"]
+edition = "2021"
+
+repository = "https://github.com/iriri/jonson"
+license = "BSD-3-Clause"
+description = "Please add to and return"
+
+[features]
+std = []
